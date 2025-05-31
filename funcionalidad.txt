@@ -1,0 +1,2 @@
+Funcionalidad: Agregar al carrito
+Descripción: Permite al usuario seleccionar productos y añadirlos a un carrito virtual.
